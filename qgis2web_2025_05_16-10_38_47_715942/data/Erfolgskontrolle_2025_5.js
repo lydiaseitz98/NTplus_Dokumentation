@@ -1,0 +1,1 @@
+var json_Erfolgskontrolle_2025_5 = {"type":"FeatureCollection","name":"Erfolgskontrolle_2025_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}
